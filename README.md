@@ -6,7 +6,7 @@ This project involves scraping data of laptops under 50000 from Flipkart.com usi
 To run this project, you will need to install the following libraries:
 
 * requests
-* bs4 (Beautiful Soup 4)
+* Selenium
 * pandas
 
 
